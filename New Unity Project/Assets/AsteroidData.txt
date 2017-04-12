@@ -1,0 +1,1 @@
+{"xPos0":"3", "yPos0":"0", "zPos0":"-2", "xScale0":"1", "yScale0":"2", "zScale0":"3", "xPos1":"1", "yPos1":"2", "zPos1":"0", "xScale1":"3", "yScale1":"3", "zScale1":"3", "xPos2":"2", "yPos2":"4", "zPos2":"0", "xScale2":"1", "yScale2":"2", "zScale2":"3", "xPos3":"-3", "yPos3":"-2", "zPos3":"0", "xScale3":"1", "yScale3":"1", "zScale3":"1"}
